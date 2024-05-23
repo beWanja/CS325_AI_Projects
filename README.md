@@ -51,7 +51,7 @@ In this project, I advance Project 1's pac-man agents by implementing ghost trac
 ### How to Run
 
 
-## Project 3: 
+## Project 3: MDPs and Reinforcement Learning
 
 ### Description
 This project involved implementing value iteration and Q-learning algorithms which I then applied to a Gridworld, Pac-Man, and a Crawler robot. 
