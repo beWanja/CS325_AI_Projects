@@ -91,7 +91,8 @@ In this project, I build and train neural networks for image classification usin
 - NumPy
 
 ### Files
-- `file.py` - Implementation of ***
+- `mlp_cifar_model` - Implementation of a multilayer perceptron to classify images on the CIFAR10 dataset
+- `cnn_cifar_model` - Implementation of a convolutional neural networks to classify images on the CIFAR10 dataset
 
 ### How to Run
 
