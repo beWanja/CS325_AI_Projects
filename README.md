@@ -28,10 +28,7 @@ This project covers the fundamentals of strategic decision-making in AI, includi
 - Python 2.7
 
 ### Files
-- `file.py` - Implementation of ***
-
-### How to Run
-
+- `multiAgents.py` - Implementation of minimax, alpha-beta pruning, and expectimax for Pacman agent
 
 ## Project 2: Pac-Man Ghost Hunting 
 
