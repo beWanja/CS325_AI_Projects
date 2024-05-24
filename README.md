@@ -7,9 +7,9 @@ This repository contains short projects I completed as part of my Intro to AI (C
 ### Add the links here
 - [Project 1: Adversarial Search](https://github.com/beWanja/cs325_ai_projects/tree/main/multiagent-pacman)
 - [Project 2: HMMs and Bayesian Inference](https://github.com/beWanja/cs325_ai_projects/tree/main/hmm_and_bayesian_inference)
-- [Project 3: MDPs and Reinforcement Learning](#project-3-neural-networks)
+- [Project 3: MDPs and Reinforcement Learning](https://github.com/beWanja/cs325_ai_projects/tree/main/pacman-rl)
 - [Project 4: Image Classification using Neural Networks](#project-4-neural-networks-cv)
-- [Project 5: Deep RL](#add-link-here)
+- [Project 5: Deep RL]()
 
 ## Project 1: Adversarial Search for Pac-Man
 
