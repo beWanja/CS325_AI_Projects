@@ -5,7 +5,7 @@ This repository contains short projects I completed as part of my Intro to AI (C
 ## Table of Contents
 
 ### Add the links here
-- [Project 1: Adversarial Search](#project-1-adversarial-search)
+- [Project 1: Adversarial Search](https://github.com/beWanja/cs325_ai_projects/tree/main/multiagent-pacman)
 - [Project 2: HMMs and Bayesian Inference](#project-2-hmms-and-bayesian-inference)
 - [Project 3: MDPs and Reinforcement Learning](#project-3-neural-networks)
 - [Project 4: Image Classification using Neural Networks](#project-4-neural-networks-cv)
