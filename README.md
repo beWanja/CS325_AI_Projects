@@ -4,12 +4,11 @@ This repository contains short projects I completed as part of my Intro to AI (C
 
 ## Table of Contents
 
-### Add the links here
 - [Project 1: Adversarial Search](https://github.com/beWanja/cs325_ai_projects/tree/main/multiagent-pacman)
 - [Project 2: HMMs and Bayesian Inference](https://github.com/beWanja/cs325_ai_projects/tree/main/hmm_and_bayesian_inference)
 - [Project 3: MDPs and Reinforcement Learning](https://github.com/beWanja/cs325_ai_projects/tree/main/pacman-rl)
-- [Project 4: Image Classification using Neural Networks](#project-4-neural-networks-cv)
-- [Project 5: Deep RL]()
+- [Project 4: Image Classification using Neural Networks](https://github.com/beWanja/cs325_ai_projects/tree/main/nns-cv)
+- [Project 5: Deep RL](https://github.com/beWanja/cs325_ai_projects/tree/main/gym-env-deep-rl)
 
 ## Project 1: Adversarial Search for Pac-Man
 
@@ -86,6 +85,9 @@ In this project, I build and train neural networks for image classification usin
 ### Files
 - `mlp_cifar_model` - Implementation of a multilayer perceptron to classify images on the CIFAR10 dataset
 - `cnn_cifar_model` - Implementation of convolutional neural networks to classify images on the CIFAR10 dataset
+- `CNN-cifar model.ipynb`
+- `CNN-fashion model.ipynb`
+- `MLP-CIFAR model.ipynb`
 
 ## Project 5: Deep Learning
 
@@ -103,5 +105,7 @@ In this project, I implement table-based Q-Learning and use Deep Q-Learning (DQN
 - DQN
 
 ### Files
+- `car_racer.ipynb`
+- `lunar_lander.ipynb`
 
 
