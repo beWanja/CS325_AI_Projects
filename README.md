@@ -6,7 +6,7 @@ This repository contains short projects I completed as part of my Intro to AI (C
 
 ### Add the links here
 - [Project 1: Adversarial Search](https://github.com/beWanja/cs325_ai_projects/tree/main/multiagent-pacman)
-- [Project 2: HMMs and Bayesian Inference](#project-2-hmms-and-bayesian-inference)
+- [Project 2: HMMs and Bayesian Inference](https://github.com/beWanja/cs325_ai_projects/tree/main/hmm_and_bayesian_inference)
 - [Project 3: MDPs and Reinforcement Learning](#project-3-neural-networks)
 - [Project 4: Image Classification using Neural Networks](#project-4-neural-networks-cv)
 - [Project 5: Deep RL](#add-link-here)
@@ -43,10 +43,8 @@ In this project, I advance Project 1's pac-man agents by implementing ghost trac
 - Python 2.7
 
 ### Files
-- `file.py` - Implementation of ***
-
-### How to Run
-
+- `bustersAgents.py` - Agents playing the Ghostbusters version of Pacman
+- `inference.py` - Tracking ghosts over time
 
 ## Project 3: MDPs and Reinforcement Learning
 
@@ -64,10 +62,8 @@ This project involved implementing value iteration and Q-learning algorithms whi
 - Python 2.7
 
 ### Files
-- `file.py` - Implementation of ***
-
-### How to Run
-
+- `valueIterationAgents.py` - A value iteration agent for solving known MDPs.
+- `qlearningAgents.py` - Q-learning agents for Gridworld, Crawler, and Pacman.
 
 ## Project 4: Image Classification using Neural Networks 
 
@@ -89,10 +85,7 @@ In this project, I build and train neural networks for image classification usin
 
 ### Files
 - `mlp_cifar_model` - Implementation of a multilayer perceptron to classify images on the CIFAR10 dataset
-- `cnn_cifar_model` - Implementation of a convolutional neural networks to classify images on the CIFAR10 dataset
-
-### How to Run
-
+- `cnn_cifar_model` - Implementation of convolutional neural networks to classify images on the CIFAR10 dataset
 
 ## Project 5: Deep Learning
 
@@ -110,8 +103,5 @@ In this project, I implement table-based Q-Learning and use Deep Q-Learning (DQN
 - DQN
 
 ### Files
-- `file.py` - Implementation of ***
-
-### How to Run
 
 
